@@ -1,6 +1,5 @@
-- [x] make profile repository
-- [ ] think of what to include
-- [ ] add it to README.md
+I am a creative developer with experience in art, animation and coding.
+
 
 <!-- ### Hi there 👋
 **AsPerUnusual/AsPerUnusual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
